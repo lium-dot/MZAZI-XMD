@@ -16,7 +16,7 @@
   ],
   "website": "https://github.com/TeddyDommie/MZAZI-XMD#readme",
   "repository": "https://github.com/TeddyDommie/MZAZI-XMD.git",
-  "logo": "https://telegra.ph/file/eebe191a0520a79979b34.jpg",
+  "logo": "https://i.ibb.co/tMZ8f8cG/file-1127.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
@@ -27,7 +27,7 @@
     "DEV": {
   "description": "Put any phone numbers you want to be bot owner without + or spaces, separated by commas. Example: 254741388986,254100156216",
   "required": true,
-  "value": "254741388986"
+  "value": "254758443111"
 },
     "NOT_OWNER_MSG": {
       "description": "Put a message that the bot will send if a parameter that requires only owner user is violated. Example: Owner only",
